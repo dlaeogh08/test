@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>영차호 사이트</h1>
+            <h1>민재연호</h1>
         </header>
         <section class="youtube-search">
             <h2>유튜브 검색</h2>
